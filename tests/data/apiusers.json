@@ -1,0 +1,4 @@
+{
+  "createUser": { "name": "Test User", "job": "QA" },
+  "updateUser": { "name": "Updated User", "job": "Lead QA" }
+}
